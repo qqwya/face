@@ -6,7 +6,7 @@
 论文 | https://arxiv.org/abs/1905.11805
 单位 | 浙大，网易伏羲AI Lab
 完成的是面部重演工作（生成的图像保留参考图像的身份以及源图像的表情），作者团队来自浙大和网易。
-
+https://github.com/qqwya/face/blob/main/image/FREEnet.jpg
 
 2.Cascade EF-GAN: Progressive Facial Expression Editing With Local Focuses
 
