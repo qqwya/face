@@ -106,7 +106,7 @@ ConfigNet在真实面部图像和合成面部渲染上进行训练，该方法�
 
 12.Adversarial Latent Autoencoders  
 作者 | Stanislav Pidhorskyi, Donald Adjeroh, Gianfranco Doretto  
-论文 | https://arxiv.org/abs/2004.03132  
+论文 | https://arxiv.org/abs/2004.04467   
 代码 | https://github.com/podgorskiy/ALAE  
 本文提出的Adversarial Latent Autoencoder (ALAE)是一种结合了自编码器、更具通用性的、利用GAN方法的架构，它可以进行更“解耦”的表征学习。  
 ALAE不仅可以生成可以和StyleGAN媲美的1024大图，还可以对真实image进行更好的重建、编辑等。  
